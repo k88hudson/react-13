@@ -1,0 +1,11 @@
+{
+  "name": "react-13",
+  "version": "1.0.0",
+  "description": "React v0.13.x",
+  "main": "index.js",
+  "author": "",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "react": "^0.13.3"
+  }
+}
